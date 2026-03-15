@@ -72,9 +72,6 @@
 ![Snake](https://raw.githubusercontent.com/hssuryawanshib23-afk/hssuryawanshib23-afk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> ⚠️ Snake won't show until you run the GitHub Action once — see setup note.
-
 ---
 
 ### 📬 Contact
@@ -82,8 +79,8 @@
 ```json
 {
   "github":  "github.com/hssuryawanshib23-afk",
-  "twitter": "YOUR_TWITTER",
-  "email":   "YOUR_EMAIL"
+  "twitter": "https://x.com/Harsh280618",
+  "email":   "harshsuryawanshi2806@gmail.com"
 }
 ```
 
