@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&width=600&lines=Hello+World!+👋;Building+AI+%2F+ML+systems...;Python+%7C+React+%7C+FastAPI+%7C+TensorFlow;Vibe+coder.+Always+exploring.+🧪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&width=600&lines=Hello+World!+👋;Python+%7C+React+%7C+FastAPI+%7C+TensorFlow;Always+learning.+🧪)](https://git.io/typing-svg)
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hssuryawanshib23-afk&hide_border=true&background=000000&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&sideLabels=ffffff&dates=a1a1aa&stroke=ffffff10" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hssuryawanshib23-afk&hide_border=true&background=808080&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&sideLabels=ffffff&dates=a1a1aa&stroke=ffffff10" />
 
 </div>
 
