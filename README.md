@@ -1,4 +1,4 @@
-<!-- Replace hssurywanshib23-afk with your username if different -->
+<!-- Replace hssuryawanshib23-afk with your username if different -->
 
 <div align="center">
 
@@ -47,9 +47,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hssurywanshib23-afk&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=6366f1&text_color=a1a1aa" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hssuryawanshib23-afk&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=6366f1&text_color=a1a1aa" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hssurywanshib23-afk&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a1a1aa" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hssuryawanshib23-afk&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a1a1aa" />
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hssurywanshib23-afk&hide_border=true&background=000000&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&sideLabels=ffffff&dates=a1a1aa&stroke=ffffff10" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hssuryawanshib23-afk&hide_border=true&background=000000&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&sideLabels=ffffff&dates=a1a1aa&stroke=ffffff10" />
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/hssurywanshib23-afk/hssurywanshib23-afk/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/hssuryawanshib23-afk/hssuryawanshib23-afk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -81,7 +81,7 @@
 
 ```json
 {
-  "github":  "github.com/hssurywanshib23-afk",
+  "github":  "github.com/hssuryawanshib23-afk",
   "twitter": "YOUR_TWITTER",
   "email":   "YOUR_EMAIL"
 }
@@ -91,6 +91,6 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hssurywanshib23-afk&color=6366f1&style=flat-square&label=visitors)
+![Visitor Count](https://komarev.com/ghpvc/?username=hssuryawanshib23-afk&color=6366f1&style=flat-square&label=visitors)
 
 </div>
