@@ -1,4 +1,6 @@
-
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              REPLACE all hssurywanshib23-afk with yours     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -14,14 +16,14 @@
 $ whoami
 ```
 > A curious builder obsessed with AI, ML, and anything that looks interesting.  
-> Currently training models, shipping apps, and vibing hard.
+> Currently training models, shipping apps, and vibing hard. 🎧
 
 ```bash
 $ cat current_status.txt
 ```
 ```
 [■■■■■■■■░░] Building something cool...
-[■■■■■■■■■░] Learning always.
+[■■■■■░░░░░] Learning always.
 [■■■■■■■■■■] Caffeinated.
 ```
 
@@ -53,9 +55,9 @@ $ cat ./stats/github.log
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hssuryawanshib23-afk&show_icons=true&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=hssurywanshib23-afk&show_icons=true&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssuryawanshib23-afk&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssurywanshib23-afk&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
 
 </div>
 
@@ -67,7 +69,7 @@ $ cat ./stats/streak.log
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hssuryawanshib23-afk&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hssurywanshib23-afk&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
 
 </div>
 
@@ -79,7 +81,7 @@ $ ./run_contribution_snake.sh
 
 <div align="center">
 
-![Snake animation](https://github.com/hssuryawanshib23-afk/hssuryawanshib23-afk/blob/output/github-contribution-grid-snake-dark.gif)
+![Snake animation](https://github.com/hssurywanshib23-afk/hssurywanshib23-afk/blob/output/github-contribution-grid-snake-dark.gif)
 
 </div>
 
@@ -90,9 +92,9 @@ $ cat ./contact.json
 ```
 ```json
 {
-  "github":   "github.com/hssuryawanshib23-afk",
-  "twitter":  "https://x.com/Harsh280618",
-  "email":    "harshsuryawanshi2806@gmail.com"
+  "github":   "github.com/hssurywanshib23-afk",
+  "twitter":  "YOUR_TWITTER",
+  "email":    "YOUR_EMAIL"
 }
 ```
 
@@ -105,6 +107,6 @@ $ cat ./contact.json
 > Connection closed. See you in the commits. 👾
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hssuryawanshib23-afk&color=00ff41&style=flat-square&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=hssurywanshib23-afk&color=00ff41&style=flat-square&label=VISITORS)
 
 </div>
