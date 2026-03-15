@@ -1,43 +1,37 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              REPLACE all hssurywanshib23-afk with yours     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- Replace hssurywanshib23-afk with your username if different -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cat coding" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&width=600&lines=Hello+World!+%F0%9F%9F%A2;Building+AI+%2F+ML+systems...;Python+%7C+React+%7C+FastAPI+%7C+TensorFlow;Vibe+coder.+Always+exploring.+%F0%9F%A7%AA)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&width=600&lines=Hello+World!+👋;Building+AI+%2F+ML+systems...;Python+%7C+React+%7C+FastAPI+%7C+TensorFlow;Vibe+coder.+Always+exploring.+🧪)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-```bash
-$ whoami
-```
+### 👾 whoami
+
 > A curious builder obsessed with AI, ML, and anything that looks interesting.  
 > Currently training models, shipping apps, and vibing hard. 🎧
 
-```bash
-$ cat current_status.txt
 ```
-```
-[■■■■■■■■░░] Building something cool...
-[■■■■■░░░░░] Learning always.
-[■■■■■■■■■■] Caffeinated.
+🔨 Building something cool...
+📖 Learning always.
+☕ Caffeinated.
 ```
 
 ---
 
-```bash
-$ ls ./tech-stack/
-```
+### 🛠 Tech Stack
 
-**AI / ML Core**
+**AI / ML**
 
 [![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch)](https://skillicons.dev)
 
-> `sklearn` `pandas` `numpy` `matplotlib` `jupyter`
+> `sklearn` &nbsp; `pandas` &nbsp; `numpy` &nbsp; `matplotlib` &nbsp; `jupyter`
 
 **Backend**
 
@@ -49,52 +43,47 @@ $ ls ./tech-stack/
 
 ---
 
-```bash
-$ cat ./stats/github.log
-```
+### 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=hssurywanshib23-afk&show_icons=true&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hssurywanshib23-afk&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=6366f1&text_color=a1a1aa" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hssurywanshib23-afk&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hssurywanshib23-afk&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a1a1aa" />
 
 </div>
 
 ---
 
-```bash
-$ cat ./stats/streak.log
-```
+### 🔥 Streak
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hssurywanshib23-afk&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hssurywanshib23-afk&hide_border=true&background=000000&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&sideLabels=ffffff&dates=a1a1aa&stroke=ffffff10" />
 
 </div>
 
 ---
 
-```bash
-$ ./run_contribution_snake.sh
-```
+### 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/hssurywanshib23-afk/hssurywanshib23-afk/blob/output/github-contribution-grid-snake-dark.gif)
+![Snake](https://raw.githubusercontent.com/hssurywanshib23-afk/hssurywanshib23-afk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
+> ⚠️ Snake won't show until you run the GitHub Action once — see setup note.
+
 ---
 
-```bash
-$ cat ./contact.json
-```
+### 📬 Contact
+
 ```json
 {
-  "github":   "github.com/hssurywanshib23-afk",
-  "twitter":  "YOUR_TWITTER",
-  "email":    "YOUR_EMAIL"
+  "github":  "github.com/hssurywanshib23-afk",
+  "twitter": "YOUR_TWITTER",
+  "email":   "YOUR_EMAIL"
 }
 ```
 
@@ -102,11 +91,6 @@ $ cat ./contact.json
 
 <div align="center">
 
-```
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% — Thanks for visiting.
-> Connection closed. See you in the commits. 👾
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=hssurywanshib23-afk&color=00ff41&style=flat-square&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=hssurywanshib23-afk&color=6366f1&style=flat-square&label=visitors)
 
 </div>
