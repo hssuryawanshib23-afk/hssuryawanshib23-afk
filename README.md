@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hssuryawanshib23-afk&hide_border=true&background=808080&ring=6366f1&fire=6366f1&currStreakLabel=ffffff&sideLabels=ffffff&dates=a1a1aa&stroke=ffffff10" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hssuryawanshib23-afk&hide_border=true&background=ffffff&ring=6366f1&fire=6366f1&currStreakLabel=000000&sideLabels=000000&dates=000000&stroke=ffffff10" />
 
 </div>
 
