@@ -15,7 +15,6 @@
 ### 👾 whoami
 
 > A curious builder obsessed with AI, ML, and anything that looks interesting.  
-> Currently training models, shipping apps, and vibing hard. 🎧
 
 ```
 🔨 Building something cool...
